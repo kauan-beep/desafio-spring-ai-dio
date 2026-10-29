@@ -116,3 +116,11 @@ Neste desafio eu aprendi como conectar uma Inteligência Artificial a uma aplica
 - **Organização em camadas:** aprendi a separar responsabilidades em controller, service, repository, model e ai, o que deixa o projeto mais fácil de entender e evoluir.
 
 **Próximos passos:** adicionar categorias fixas, filtro por categoria e mais testes para as ferramentas de Tool Calling.
+## Resultado dos testes
+
+Os testes unitários das validações foram executados com `mvn test` no GitHub Codespaces:
+
+- Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+- BUILD SUCCESS
+
+O fluxo completo com banco de dados (Docker) e chave da OpenAI ainda não foi executado. Fica como próximo passo.
