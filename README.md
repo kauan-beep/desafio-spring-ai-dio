@@ -1,6 +1,6 @@
 # Budget AI — API de orçamento com Spring AI
 
-Projeto do desafio **"Desenvolvendo sua API Inteligente com Reconhecimento de Fala e Spring Boot"** (DIO + Itaú).
+Projeto do **Desafio de Projeto com Spring AI** (DIO + Itaú).
 Baseado no projeto do expert: https://github.com/digitalinnovationone/dio-spring-boot-learning-track (pasta `05-spring-ai`).
 
 ## O que o projeto faz
@@ -116,6 +116,7 @@ Neste desafio eu aprendi como conectar uma Inteligência Artificial a uma aplica
 - **Organização em camadas:** aprendi a separar responsabilidades em controller, service, repository, model e ai, o que deixa o projeto mais fácil de entender e evoluir.
 
 **Próximos passos:** adicionar categorias fixas, filtro por categoria e mais testes para as ferramentas de Tool Calling.
+
 ## Resultado dos testes
 
 Os testes unitários das validações foram executados com `mvn test` no GitHub Codespaces:
